@@ -45,6 +45,7 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 - Agent Planning with World Knowledge Model (**NeurIPS 2024**) [[paper](https://arxiv.org/pdf/2405.14205)] [[code](https://github.com/zjunlp/WKM)]
 - MULTIAGENT FINETUNING: SELF IMPROVEMENT WITH DIVERSE REASONING CHAINS (**ICLR 2025**) [[paper](https://arxiv.org/abs/2501.05707)] [[code](https://github.com/vsubramaniam851/multiagent-ft)]
 - Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning (**ACL 2025**) [[paper](https://arxiv.org/pdf/2412.14780)]
+- Rearchitecting LLMs (**Manning Publications 2025**) [[book](https://www.manning.com/books/rearchitecting-llms)]
 - 
 ## Reinforcement Learning-based
 
