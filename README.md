@@ -1,6 +1,10 @@
 # LLM-Agent-Optimization
-This is the reading list for the survey **"A Survey of LLM-based Agents Optimization" ([Paper Link](https://arxiv.org/abs/2503.12434))**, which systematically explores various optimization techniques for enhancing LLM-based agents. The survey categorizes existing works into parameter-driven optimization, parameter-free optimization, datasets and benchmarks, and real-world applications. We will keep adding papers and improving the list. Any suggestions and PRs are welcome!
 
+## 📢 News
+
+- **2026** 🎉 Our survey **"A Survey on the Optimization of Large Language Model-based Agents"** has been **accepted by ACM Computing Surveys (CSUR)**! The paper is now **open access**. We sincerely welcome your citations and feedback!
+
+This is the reading list for the survey **"A Survey on the Optimization of Large Language Model-based Agents"** ([ACM CSUR](https://dl.acm.org/doi/10.1145/3789261)), which systematically explores various optimization techniques for enhancing LLM-based agents. The survey categorizes existing works into parameter-driven optimization, parameter-free optimization, datasets and benchmarks, and real-world applications. We will keep adding papers and improving the list. Any suggestions and PRs are welcome!
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7ad2d1e2-17c7-42bc-bcbc-a615209b1a5a" width="50%">
@@ -72,6 +76,9 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 - EPO: Explicit Policy Optimization for Strategic Reasoning in LLMs via Reinforcement Learning (**ACL 2025**) [[paper](https://arxiv.org/abs/2502.12486)] [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/EPO)]
 - DAPO: Decoupled Clip and Dynamic Sampling Policy Optimization (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2503.14476)]
 - MARFT: Multi-Agent Reinforcement Fine-Tuning (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2504.16129)] [[code](https://github.com/jwliao-ai/MARFT)]
+- SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models(**arXiv 2026**) [[paper](https://arxiv.org/abs/2601.03555)]
+- AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning (**ICLR 2026**) [[paper](https://arxiv.org/abs/2509.08755)] [[code](https://github.com/woooodyy/AgentGym-RL)]
+- DeepResearcher: Scaling deep research via reinforcement learning in real-world environments (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.03160)] [[code](https://github.com/GAIR-NLP/DeepResearcher)]
 
 ## Hybrid Fine-Tuning Optimization
 
@@ -97,6 +104,8 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 - AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning (NeurIPS 2024) [[paper](https://arxiv.org/abs/2405.16247)] [[code](https://github.com/minghchen/automanual)]
 - AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents (NeurIPS 2024) [[paper](https://arxiv.org/abs/2403.08978)]
 - Experiential Co-Learning of Software-Developing Agents (ACL 2024) [[paper](https://arxiv.org/abs/2312.17025)] [[code](https://github.com/OpenBMB/ChatDev)]
+- AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents (**arXiv 2025**) [[paper](https://arxiv.org/abs/2510.08511)] [[code](https://github.com/InternScience/MLEvolve)]
+
 
 ## Feedback-based 
 
@@ -128,15 +137,17 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 - ALITA: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution (**arXiv 2025**) [[paper](https://arxiv.org/abs/2505.20286)] [[code](https://github.com/CharlesQ9/Alita)]
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2501.05366)] [[code](https://github.com/sunnynexus/Search-o1)]
 
-## RAG-based 
+## Retrieval-based 
 
-- Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs (**EMNLP 2024**) [[paper](https://arxiv.org/abs/2409.19401)]
+- Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs (**EMNLP 2024**) [[paper](https://aclanthology.org/2024.emnlp-main.281.pdf)]
 - RaDA: Retrieval-augmented Web Agent Planning with LLMs (**ACL** **2024-findings**) [[paper](https://aclanthology.org/2024.findings-acl.802/)] [[code](https://github.com/ldilab/RaDA)]
 - AutoRAG: Automated Framework for Optimization of Retrieval Augmented Generation Pipeline (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2410.20878)] [[code](https://github.com/Marker-Inc-Korea/AutoRAG_ARAGOG_Paper)]
 - RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2402.03610)] [[code](https://github.com/PanasonicConnect/rap)]
 - MALADE: Orchestration of LLM-powered Agents with Retrieval Augmented Generation for Pharmacovigilance (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2408.01869v1)] [[code](https://github.com/jihyechoi77/malade)]
 - PaperQA: Retrieval-Augmented Generative Agent for Scientific Research (**arXiv 2023**) [[paper](https://arxiv.org/abs/2312.07559)] [[code](https://github.com/future-house/paper-qa)]
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2501.05366)] [[code](https://github.com/sunnynexus/Search-o1)]
+- WebThinker: Empowering Large Reasoning Models with Deep Research Capability (**NeurIPS 2025**) [[paper](https://arxiv.org/abs/2504.21776)] [[code](https://github.com/RUC-NLPIR/WebThinker)]
+- FlowSearch: Advancing Deep Research with Dynamic Structured Knowledge Flow (**arXiv 2025**) [[paper](https://arxiv.org/abs/2510.08521)]
 
 ## Multi-Agent 
 
@@ -197,6 +208,7 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 36. LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code (arXiv 2024) [[paper](https://arxiv.org/abs/2403.07974v2)] [[code](https://github.com/LiveCodeBench/LiveCodeBench)]
 37. Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs (NeurIPS 2023) [[paper](https://arxiv.org/abs/2305.03111)] [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird)]
 38. InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback (NeurIPS 2023) [[paper](https://arxiv.org/abs/2306.14898)] [[code](https://github.com/princeton-nlp/intercode)]
+39. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering (**ICLR 2025**) [[paper](https://arxiv.org/abs/2410.07095)] [[code](https://github.com/openai/mle-bench)]
 
 ### Multi-task Benchmarks
 
@@ -231,6 +243,7 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 
 ## Science
 
+- InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery (**arXiv 2026**) [[paper](https://arxiv.org/abs/2602.08990)] [[code](https://github.com/InternScience/InternAgent)]
 - CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2407.09811)] [[code](https://github.com/lsq2wal/CellAgent)]
 - BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2405.17631)] [[code](https://github.com/snap-stanford/BioDiscoveryAgent/)]
 - ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning (**Digital Discovery 2024**) [[paper](https://arxiv.org/abs/2402.04268)] [[code](https://github.com/lamm-mit/ProtAgents)]
@@ -242,6 +255,7 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 - MProt-DPO: Breaking the ExaFLOPS Barrier for Multimodal Protein Design Workflows with Direct Preference Optimization (**SC 2024**) [[paper](https://dl.acm.org/doi/10.1109/SC41406.2024.00013)]
 - Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2410.09403)] [[code](https://github.com/open-sciencelab/Virtual-Scientists)]
 - SciAgent: Tool-augmented Language Models for Scientific Reasoning (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2402.11451)]
+
 
 ## Embodied Intelligence
 
@@ -290,16 +304,23 @@ This is the reading list for the survey **"A Survey of LLM-based Agents Optimiza
 
 ## 📄 Citation
 
-If you find this project or the related paper helpful, please consider citing our work:
+If you find this project or the related paper helpful, **we sincerely welcome your citation!**
 
-**A Survey on the Optimization of Large Language Model-based Agents**   📚 [arXiv:2503.12434](https://arxiv.org/abs/2503.12434)
+**A Survey on the Optimization of Large Language Model-based Agents**  
+📚 [ACM Computing Surveys](https://dl.acm.org/doi/pdf/10.1145/3789261) (Open Access)
 
 ```bibtex
-@article{du2025survey,
-  title={A Survey on the Optimization of Large Language Model-based Agents},
-  author={Du, Shangheng and Zhao, Jiabao and Shi, Jinxin and Xie, Zhentao and Jiang, Xin and Bai, Yanhong and He, Liang},
-  journal={arXiv preprint arXiv:2503.12434},
-  year={2025}
+@article{du2026survey,
+  author = {Du, Shangheng and Zhao, Jiabao and Shi, Jinxin and Xie, Zhentao and Jiang, Xin and Bai, Yanhong and He, Liang},
+  title = {A Survey on the Optimization of Large Language Model-based Agents},
+  journal = {ACM Computing Surveys},
+  volume = {58},
+  number = {9},
+  articleno = {223},
+  numpages = {37},
+  year = {2026},
+  publisher = {ACM},
+  doi = {10.1145/3789261}
 }
 ```
 
