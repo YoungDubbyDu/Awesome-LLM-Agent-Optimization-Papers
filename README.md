@@ -163,6 +163,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - SMoA: Improving Multi-Agent Large Language Models with Sparse Mixture-of-Agents (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2411.03284)] [[code](https://github.com/David-Li0406/SMoA)]
 - Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate (**EMNLP 2024**) [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
 - AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (**arXiv** **2023**) [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
+- OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents (**arXiv** **2025**) [[paper](https://arxiv.org/abs/2504.16918)]
 
 # Datasets and Benchmarks
 
