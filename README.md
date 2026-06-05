@@ -93,7 +93,8 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - Retrospex: Language Agent Meets Offline Reinforcement Learning Critic (EMNLP 2024) [[paper](https://aclanthology.org/2024.emnlp-main.268/)] [[code](https://github.com/Yufei-Xiang/Retrospex)]
 - ENVISION:Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models (arXiv 2024) [[paper](https://arxiv.org/abs/2406.11736)] [[code](https://github.com/xufangzhi/ENVISIONS)]
 - DITS: Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.00955)]
-- 
+- PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.05697)]
+
 # Parameter-Free Optimization
 
 ## Experience-based 
