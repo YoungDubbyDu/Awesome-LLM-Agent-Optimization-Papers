@@ -50,7 +50,8 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - MULTIAGENT FINETUNING: SELF IMPROVEMENT WITH DIVERSE REASONING CHAINS (**ICLR 2025**) [[paper](https://arxiv.org/abs/2501.05707)] [[code](https://github.com/vsubramaniam851/multiagent-ft)]
 - Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning (**ACL 2025**) [[paper](https://arxiv.org/pdf/2412.14780)]
 - Rearchitecting LLMs (**Manning Publications 2025**) [[book](https://www.manning.com/books/rearchitecting-llms)]
-- 
+- PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.05697)]
+  
 ## Reinforcement Learning-based
 
 - CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models  (arXiv 2024) [[paper](https://arxiv.org/pdf/2404.01663)] [[code](https://github.com/heimy2000/CMAT)]
@@ -93,7 +94,6 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - Retrospex: Language Agent Meets Offline Reinforcement Learning Critic (EMNLP 2024) [[paper](https://aclanthology.org/2024.emnlp-main.268/)] [[code](https://github.com/Yufei-Xiang/Retrospex)]
 - ENVISION:Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models (arXiv 2024) [[paper](https://arxiv.org/abs/2406.11736)] [[code](https://github.com/xufangzhi/ENVISIONS)]
 - DITS: Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.00955)]
-- PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.05697)]
 
 # Parameter-Free Optimization
 
