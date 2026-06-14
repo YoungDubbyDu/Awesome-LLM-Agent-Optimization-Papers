@@ -223,6 +223,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - Humanity’s Last Exam (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.14249)] [[code](https://huggingface.co/datasets/cais/hle)]
 - NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.03797v3)] [[code](https://github.com/IBM/NESTFUL)]
 - MCP_RADAR: Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2505.16700)] [[code](https://anonymous.4open.science/r/MCPRadar-B143)]
+- PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.08878)] [[code](https://github.com/WhymustIhaveaname/PerspectiveGap)]
 
 # Application
 
