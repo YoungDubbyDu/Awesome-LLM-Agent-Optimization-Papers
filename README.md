@@ -125,6 +125,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - SELF-TUNING: Instructing LLMs to Effectively Acquire New Knowledge through Self-Teaching (arXiv 2024) [[paper](https://arxiv.org/pdf/2406.06326)]
 - OPRO: LARGE LANGUAGE MODELS AS OPTIMIZERS (ICLR 2024) [[paper](https://arxiv.org/abs/2309.03409)] [[code](https://github.com/google-deepmind/opro)]
 - MPO: Boosting LLM Agents with Meta Plan Optimization (**arXiv 2025**) [[paper](https://arxiv.org/abs/2503.02682)]
+- PEvo: Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations (**EMNLP 2025**) [[paper](https://arxiv.org/abs/2509.16457)]
 
 ## Tool-based
 
