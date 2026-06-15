@@ -51,6 +51,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - Disentangling Reasoning Tokens and Boilerplate Tokens For Language Model Fine-tuning (**ACL 2025**) [[paper](https://arxiv.org/pdf/2412.14780)]
 - Rearchitecting LLMs (**Manning Publications 2025**) [[book](https://www.manning.com/books/rearchitecting-llms)]
 - PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.05697)]
+- AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation (**arXiv 2026**) [[paper](https://arxiv.org/abs/2601.00930)]
   
 ## Reinforcement Learning-based
 
