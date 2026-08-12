@@ -213,6 +213,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 37. Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs (NeurIPS 2023) [[paper](https://arxiv.org/abs/2305.03111)] [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird)]
 38. InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback (NeurIPS 2023) [[paper](https://arxiv.org/abs/2306.14898)] [[code](https://github.com/princeton-nlp/intercode)]
 39. MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering (**ICLR 2025**) [[paper](https://arxiv.org/abs/2410.07095)] [[code](https://github.com/openai/mle-bench)]
+40. ClawBench: Can AI Agents Complete Everyday Online Tasks? (**arXiv 2026**) [[paper](https://arxiv.org/abs/2604.08523)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)]
 
 ### Multi-task Benchmarks
 
