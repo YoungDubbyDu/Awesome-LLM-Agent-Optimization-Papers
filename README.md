@@ -152,6 +152,10 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - WebThinker: Empowering Large Reasoning Models with Deep Research Capability (**NeurIPS 2025**) [[paper](https://arxiv.org/abs/2504.21776)] [[code](https://github.com/RUC-NLPIR/WebThinker)]
 - FlowSearch: Advancing Deep Research with Dynamic Structured Knowledge Flow (**arXiv 2025**) [[paper](https://arxiv.org/abs/2510.08521)]
 
+## Context Management-based
+
+- TokenPilot: Cache-Efficient Context Management for LLM Agents (**EMNLP 2026**) [[paper](https://arxiv.org/abs/2606.17016)] [[code](https://github.com/zjunlp/LightRSI)]
+
 ## Multi-Agent 
 
 - CAPO: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation (arXiv 2024) [[paper](https://arxiv.org/abs/2411.04679)]
