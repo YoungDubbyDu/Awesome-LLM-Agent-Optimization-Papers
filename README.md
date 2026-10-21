@@ -254,6 +254,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 
 ## Science
 
+- AutoSR: Automatic Symbolic Regression by Searching Research States (**arXiv 2026**) [[paper](https://arxiv.org/abs/2608.16876)] [[code](https://github.com/AutoResearch-Factory/AutoSR)]
 - InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery (**arXiv 2026**) [[paper](https://arxiv.org/abs/2602.08990)] [[code](https://github.com/InternScience/InternAgent)]
 - CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2407.09811)] [[code](https://github.com/lsq2wal/CellAgent)]
 - BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2405.17631)] [[code](https://github.com/snap-stanford/BioDiscoveryAgent/)]
@@ -296,6 +297,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - Simulating Financial Market via Large Language Model-based Agents (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2406.19966)]
 - FinVerse: An Autonomous Agent System for Versatile Financial Analysis (**arXiv 2024**) [[paper](https://arxiv.org/abs/2406.06379)]
 - FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2405.14767)] [[code](https://github.com/AI4Finance-Foundation/FinRobot)]
+- AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search (**arXiv 2026**) [[paper](https://arxiv.org/abs/2608.11250)] [[code](https://github.com/AutoResearch-Factory/AgonAlpha)]
 
 ## Programming
 
