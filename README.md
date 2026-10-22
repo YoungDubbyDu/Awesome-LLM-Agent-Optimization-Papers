@@ -108,6 +108,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents (NeurIPS 2024) [[paper](https://arxiv.org/abs/2403.08978)]
 - Experiential Co-Learning of Software-Developing Agents (ACL 2024) [[paper](https://arxiv.org/abs/2312.17025)] [[code](https://github.com/OpenBMB/ChatDev)]
 - AutoMLGen: Navigating Fine-Grained Optimization for Coding Agents (**arXiv 2025**) [[paper](https://arxiv.org/abs/2510.08511)] [[code](https://github.com/InternScience/MLEvolve)]
+- - IGPO: Inventory-Grounded Policy-Level Optimization for Training-Free AI Search (**EMNLP 2026**) [[paper](https://arxiv.org/abs/2609.04813)]
 
 
 ## Feedback-based 
