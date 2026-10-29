@@ -142,6 +142,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - VideoAgent: A Memory-Augmented Multimodal Agent for Video Understanding (**ECCV 2024**) [[paper](https://arxiv.org/pdf/2403.11481)] [[code](https://videoagent.github.io)]
 - ALITA: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution (**arXiv 2025**) [[paper](https://arxiv.org/abs/2505.20286)] [[code](https://github.com/CharlesQ9/Alita)]
 - Search-o1: Agentic Search-Enhanced Large Reasoning Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2501.05366)] [[code](https://github.com/sunnynexus/Search-o1)]
+- TabAgent: Distilling LLM Agent Components into Cheap Classifiers (**arXiv 2026**) [[paper](https://arxiv.org/abs/2602.16429)] [[code](https://github.com/dolev31/TabAgent)]
 
 ## Retrieval-based 
 
