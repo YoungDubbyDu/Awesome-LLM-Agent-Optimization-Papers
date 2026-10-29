@@ -175,6 +175,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate (**EMNLP 2024**) [[paper](https://arxiv.org/abs/2305.19118)] [[code](https://github.com/Skytliang/Multi-Agents-Debate)]
 - AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (**arXiv** **2023**) [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
 - OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents (**arXiv** **2025**) [[paper](https://arxiv.org/abs/2504.16918)]
+- Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.24177)] [[code](https://github.com/AutoResearch-Factory/Agon)]
 
 # Datasets and Benchmarks
 
@@ -235,6 +236,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.03797v3)] [[code](https://github.com/IBM/NESTFUL)]
 - MCP_RADAR: Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models (**arXiv 2025**) [[paper](https://arxiv.org/pdf/2505.16700)] [[code](https://anonymous.4open.science/r/MCPRadar-B143)]
 - PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.08878)] [[code](https://github.com/WhymustIhaveaname/PerspectiveGap)]
+- SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents (**arXiv 2026**) [[paper](https://arxiv.org/abs/2610.21082)] [[code](https://github.com/AutoResearch-Factory/SciPIvot)]
 
 # Application
 
