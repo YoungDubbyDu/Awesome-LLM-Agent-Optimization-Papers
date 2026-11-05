@@ -83,6 +83,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - DeepResearcher: Scaling deep research via reinforcement learning in real-world environments (**arXiv 2025**) [[paper](https://arxiv.org/abs/2504.03160)] [[code](https://github.com/GAIR-NLP/DeepResearcher)]
 - DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training (**arXiv 2026**) [[paper](https://arxiv.org/abs/2609.04094)] [[code](https://github.com/IBM/draco)]
 - Asking for What Was Never Requested: Horizontal and Vertical Proactivity in Agents (**arXiv 2026**) [[paper](https://arxiv.org/abs/2609.37236)] [[code](https://github.com/dolev31/ProactiveInquirer)]
+- NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning (**The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration (STAI-X 2026), Paper Award Honorable Mention**) [[paper](https://openreview.net/pdf?id=psCz7NClif)] [[arXiv](https://arxiv.org/abs/2605.16757)] [[code](https://github.com/haoranlustat/NeuroMAS)]
 
 ## Hybrid Fine-Tuning Optimization
 
