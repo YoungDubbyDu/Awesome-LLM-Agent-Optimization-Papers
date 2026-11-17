@@ -263,6 +263,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 ## Science
 
 - AutoSR: Automatic Symbolic Regression by Searching Research States (**arXiv 2026**) [[paper](https://arxiv.org/abs/2608.16876)] [[code](https://github.com/AutoResearch-Factory/AutoSR)]
+- AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing (**arXiv 2026**) [[paper](https://arxiv.org/abs/2602.17607)] [[code](https://github.com/Daviddjddu/Autonumerics)]
 - InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery (**arXiv 2026**) [[paper](https://arxiv.org/abs/2602.08990)] [[code](https://github.com/InternScience/InternAgent)]
 - CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2407.09811)] [[code](https://github.com/lsq2wal/CellAgent)]
 - BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments (**arXiv** **2024**) [[paper](https://arxiv.org/abs/2405.17631)] [[code](https://github.com/snap-stanford/BioDiscoveryAgent/)]
