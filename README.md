@@ -179,6 +179,7 @@ This is the reading list for the survey **"A Survey on the Optimization of Large
 - AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (**arXiv** **2023**) [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://github.com/microsoft/autogen)]
 - OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents (**arXiv** **2025**) [[paper](https://arxiv.org/abs/2504.16918)]
 - Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy (**arXiv 2026**) [[paper](https://arxiv.org/abs/2606.24177)] [[code](https://github.com/AutoResearch-Factory/Agon)]
+- MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation (**arXiv 2026**) [[paper](https://arxiv.org/abs/2610.23234)]
 
 # Datasets and Benchmarks
 
